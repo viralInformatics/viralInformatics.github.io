@@ -51,12 +51,12 @@ permalink: /
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/database/VirusSmallRNA.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}images/database/VirusSmallRNA.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://www.computationalbiology.cn/vsRNAdb/'>Virus Small RNA</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/database/VirusLncRNA.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}images/database/VirusLncRNA.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://www.computationalbiology.cn/vlncRNAbase/'>Virus long-noncoding RNA</a></b></p>
 </div><!-- /.col-lg-3 -->
 </div><!-- /.row -->
