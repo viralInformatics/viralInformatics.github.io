@@ -36,27 +36,27 @@ permalink: /
 
 <div class="row">
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}images/database/HumanVirusDatabase.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/database/HumanVirusDatabase.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://computationalbiology.cn/humanVirusBase/'>Human Virus Database</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}images/database/ViralReceptor.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/database/ViralReceptor.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://www.computationalbiology.cn:5000/viralReceptor'>Viral Receptor Database</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}images/database/VirusCircRNA.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/database/VirusCircRNA.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://computationalbiology.cn/VirusCircBase2/'>Virus Circular RNA</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}images/database/VirusSmallRNA.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/database/VirusSmallRNA.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://www.computationalbiology.cn/vsRNAdb/'>Virus Small RNA</a></b></p>
 </div><!-- /.col-lg-3 -->
 
 <div class="col-lg-3 text-center">
-<img src="{{ site.url }}{{ site.baseurl }}images/database/VirusLncRNA.jpg" style='height: 200px;'/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/database/VirusLncRNA.jpg" style='height: 200px;'/>
 <p class="text-center" style='margin-top: 16px;'><b style='font-size:24px;'><a href='http://www.computationalbiology.cn/vlncRNAbase/'>Virus long-noncoding RNA</a></b></p>
 </div><!-- /.col-lg-3 -->
 </div><!-- /.row -->
