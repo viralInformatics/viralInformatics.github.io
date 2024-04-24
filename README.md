@@ -1,12 +1,9 @@
-# Ribo centre Website
+# VirusHub Website
 
-This is the website of our ribozyme database.
+This is the website of our Virus Hub database.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This website is powered by Jekyll and some Bootstrap, Bootwatch which copy from https://github.com/rnacentre/gznl-rdc.
 
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 Code released under the MIT License.
-
-
-gem install liquid
