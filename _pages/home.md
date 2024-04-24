@@ -61,9 +61,6 @@ permalink: /
 </div><!-- /.col-lg-3 -->
 </div><!-- /.row -->
 
-
-
-
 <br/><br/><br/>
 
   
