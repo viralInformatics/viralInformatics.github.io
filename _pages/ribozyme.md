@@ -1,11 +1,11 @@
 ---
-title: "VirusHub - VirusRNA"
-layout: VirusRNA
-excerpt: "VirusHub - VirusRNA"
+title: "Ribo centre - Ribozyme"
+layout: ribozyme
+excerpt: "Ribo centre - Ribozyme"
 sitemap: false
-permalink: /VirusRNA/
+permalink: /ribozyme/
 ---
-# VirusRNA
+# Ribozyme
 
 
 <div class="row" style='background-color: #f0f0f0;'>
