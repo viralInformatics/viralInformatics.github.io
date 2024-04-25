@@ -1,10 +1,11 @@
 ---
-title: "GZNL-RDC - Home"
-layout: homelay
-excerpt: "GZNL - Respiratory Data Centre: Facilitating Respiratory Disease Research with big data"
-sitemap: true
-permalink: /
+title: "VirusHub - VirusRNA"
+layout: VirusRNA
+excerpt: "VirusHub - VirusRNA"
+sitemap: false
+permalink: /VirusRNA/
 ---
+# VirusRNA
 
 
 <div class="row" style='background-color: #f0f0f0;'>
